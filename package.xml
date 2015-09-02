@@ -1,0 +1,12 @@
+<package>
+  <name>mscl</name>
+  <version>1.0.0</version>
+  <description>
+    MicroStrain Communication Library
+  </description>
+  <maintainer email="ethan.a.stump2.civ@mail.mil">Ethan Stump</maintainer>
+  <license>GPLv3</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
